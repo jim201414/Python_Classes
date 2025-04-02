@@ -1,3 +1,7 @@
+__version__ = '0.1.0'
+__author__ = 'Jim Harisis'
+__license__ = "Apache License 2.0. https://www.apache.org/licenses/LICENSE-2.0"
+
 from telemetrix import telemetrix
 from time import sleep
 board = telemetrix.Telemetrix()
